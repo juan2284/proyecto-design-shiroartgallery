@@ -1,0 +1,84 @@
+body{
+  background: #E3E9EE;
+}
+
+.container a img{
+  width: 50px;
+}
+
+.container a{
+  font-family: 'Lobster Two', cursive;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.container .jr-menu ul li a{
+  font-family: "Oswald", sans-serif;
+  font-size: 18px;
+}
+
+.container .jr-menu ul .dropdown-menu a{
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.jr-menu form button{
+  border: 1px solid #1C7293;
+  color: #1C7293;
+}
+
+.jr-menu form button:hover{
+  background: #1C7293;
+  border: 1px solid #1C7293;
+}
+
+.jr-boton-1{
+  border: 1px solid #065A82;
+  font-family: 'Oswald', sans-serif !important;
+  font-size: 18px !important;
+  color: #065A82;
+}
+
+.jr-boton-1:hover{
+  background: #065A82;
+  border: 1px solid #065A82;
+  color: #FFF;
+}
+
+.jr-boton-2{
+  border: 1px solid #065A82;
+  font-family: 'Oswald', sans-serif !important;
+  font-size: 18px !important;
+  color: #065A82;
+}
+
+.jr-boton-2:hover{
+  background: #065A82;
+  border: 1px solid #065A82;
+  color: #FFF;
+}
+
+.container h3 img{
+  width: 50px;
+}
+
+.container h3{
+  font-family: 'Lobster Two', cursive;
+  font-size: 40px;
+  font-weight: bold;
+  color: #FFF;
+}
+
+.jr-carrusel{
+  margin-top: 89px;
+}
+
+footer{
+  background: #1C7293;
+}
+
+.btn-link{
+  font-family: 'Oswald', sans-serif !important;
+  font-size: 16px !important;
+  color: #FFF;
+}
